@@ -3,7 +3,7 @@
 ## The Exercise
 
 - download and install [Renpy](http://www.renpy.org/latest.html)
-- open Renpy and set the [`/RenpyProjectsDirectory/`](/RenpyProjectsDirectory/) as your **Projects Directory** in Preferences
+- open Renpy and set the [`/RenpyProjectsDirectory/`](../RenpyProjectsDirectory/) as your **Projects Directory** in Preferences
 - open the example-project with Twine
   - read the code / the comments for further information & instructions
 
