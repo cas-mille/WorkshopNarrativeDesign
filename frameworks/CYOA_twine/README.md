@@ -6,7 +6,7 @@
 - import & open the example-project with Twine
   - read the code / the comments for further information & instructions
 
-Please note that Twine 1 and Twine 2 are different and similar at the same time. This can be somethimes quite confusing while reading tutorials and finding solutions online.
+Please note that Twine 1 and Twine 2 are different and similar at the same time. This can be somethimes confusing while reading tutorials and finding solutions online.
 
 ## Further Reading
 
@@ -16,7 +16,7 @@ Please note that Twine 1 and Twine 2 are different and similar at the same time.
 - http://www.reddit.com/r/twinegames/
 - http://boingboing.net/2015/03/30/videogames-for-humans-a-speci.html
 
-** Twine-Examples**
+**Twine-Examples**
 
 - http://www.freeindiegam.es/2013/12/best-of-2013-twine/
 - http://twinehub.weebly.com/
