@@ -1,0 +1,48 @@
+# ====================================
+# tmp
+# ====================================
+
+frameworks/adventure_visionaire
+frameworks/enhancedbook_tiptoi
+
+# ====================================
+# meta
+# ====================================
+
+
+# ====================================
+# interactivefiction_inform7
+# ====================================
+
+# ignore everything except Source/story.ni
+frameworks/interactivefiction_inform7/NarrativeDesignZork/NarrativeDesignZork.inform/Build/
+frameworks/interactivefiction_inform7/NarrativeDesignZork/NarrativeDesignZork.inform/Index/
+frameworks/interactivefiction_inform7/NarrativeDesignZork/NarrativeDesignZork.inform/manifest.plist
+frameworks/interactivefiction_inform7/NarrativeDesignZork/NarrativeDesignZork.inform/Metadata.iFiction
+frameworks/interactivefiction_inform7/NarrativeDesignZork/NarrativeDesignZork.inform/notes.rtf
+frameworks/interactivefiction_inform7/NarrativeDesignZork/NarrativeDesignZork.inform/Release.blurb
+frameworks/interactivefiction_inform7/NarrativeDesignZork/NarrativeDesignZork.inform/Settings.plist
+frameworks/interactivefiction_inform7/NarrativeDesignZork/NarrativeDesignZork.inform/Skein.skein
+frameworks/interactivefiction_inform7/NarrativeDesignZork/NarrativeDesignZork.inform/uuid.txt
+
+frameworks/interactivefiction_inform7/NarrativeDesignZork/NarrativeDesignZork.materials/Icon
+
+# ====================================
+# gamebook_analog
+# ====================================
+
+frameworks/gamebook_analog/other
+
+# ====================================
+# visualnovel_renpy
+# ====================================
+
+*.rpy~
+*.rpyc
+*.save
+*.bak
+*.rpyb
+
+frameworks/visualnovel_renpy/RenpyProjectsDirectory/dazwischen/game/saves/
+frameworks/visualnovel_renpy/RenpyProjectsDirectory/dazwischen/log.txt
+frameworks/visualnovel_renpy/RenpyProjectsDirectory/dazwischen/tmp/
