@@ -8,15 +8,26 @@ A collection of workshop materials / exercises / stuff about **Narrative Design 
 
 ## The Exercise
 
+- choose yourself / receive...
+  - a framework / engine
+  - a theme / topic / storyworld
 - download / clone / fork the [`workshop materials`](http://github.com/csongorb/WorkshopNarrativeDesign) on GitHub
-- download / install additional software
+- download / install the frameworks and additional software
+  - as further described at each framework
 - **design / write / author a story**...
-  - within the the given / choosen framework
-    - with the given structure / elements / functions
-  - fitting the given / choosen theme / topic / storyworld
+  - *within the the given / choosen framework*
+    - *with the given structure / elements / functions*
+  - *fitting the given / choosen theme / topic / storyworld*
+- upload / exhibit / show your interactive story
+- analyse / discuss your work
+  - what went right? what went wrong?
 
 ### Suggested Steps
-1. **analyse!**   - play around with and analyse the framework   - how does the framework work? what is it capable of? what kind of stories does the structure imply?   - only then:
+
+1. **analyse!**
+   - play around with and analyse the framework
+   - how does the framework work? what is it capable of? what kind of stories does the structure imply?
+   - only then:
 2. **brainstorm!**
    - what can you do with the framework? what story does fit the structure?
    - frame your vision!
@@ -39,16 +50,23 @@ A collection of workshop materials / exercises / stuff about **Narrative Design 
    - build & test one more time
    - upload / exhibit / show
 
+## Structure / Content
+
+- [`/frameworks`](http://github.com/csongorb/WorkshopNarrativeDesign/frameworks)
+  - the prepared **exercises / frameworks**
+- [`/meta`](http://github.com/csongorb/WorkshopNarrativeDesign/meta)
+  - further **instructions / material for tutors / workshop instructors**
+
 ## Todos
 
-No such toolbox is ever finished... but unfortunatelly this one is particularly Work in Progress.  
-Please check the **Issues** on GitHub for all the awsome features I would like to add.
+No such toolbox is ever finished... but unfortunatelly this one is particularly **Work in Progress**. Please feel free to help out and / or share your comments and ideas!
+
 
 ## Credits
 
-**csongor baranyai**  
-csongorb (at) gmail (dot) com  
-[http://www.csongorb.com](http://www.csongorb.com)
+- **csongor baranyai**  
+- csongorb (at) gmail (dot) com  
+- [http://www.csongorb.com](http://www.csongorb.com)
 
 Thanks a lot to **Martin Ganteföhr** for the workshops we conducted / managed together. This materials were very much inspired by his input and all the discussions we had.
 
