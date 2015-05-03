@@ -2,16 +2,28 @@
 
 ## The Exercise
 
-- download & install [Twine](http://twinery.org/)
-- open the example-project with Twine
+- download & install [Twine 2.0](http://twinery.org/)
+- import & open the example-project with Twine
   - read the code / the comments for further information & instructions
+
+Please note that Twine 1 and Twine 2 are different and similar at the same time. This can be somethimes quite confusing while reading tutorials and finding solutions online.
 
 ## Further Reading
 
 **Twine**
 
 - http://twinery.org/wiki/start
+- http://www.reddit.com/r/twinegames/
+- http://boingboing.net/2015/03/30/videogames-for-humans-a-speci.html
+
+** Twine-Examples**
+
+- http://www.freeindiegam.es/2013/12/best-of-2013-twine/
 - http://twinehub.weebly.com/
+- http://boingboing.net/2015/04/10/twine-games-300-words.html
+- http://www.polygon.com/a/creativity-cover/sunset-twine-prequel
+- http://storycade.com/3-twine-games-introduce-people-medium/
+- http://www.douglasfwarrick.com/days-twine-roses-twine-primer/
 
 **Choose Your Own Adventure** 
 
