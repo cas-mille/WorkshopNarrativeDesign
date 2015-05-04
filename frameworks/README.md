@@ -33,10 +33,11 @@ Of course you can use other frameworks too...
 - http://en.wikipedia.org/wiki/Tabletop_role-playing_game
 - http://mozomedia.com/ack/download-ack/
 
-**Other**
+**Other / Experimental**
 
 - https://github.com/entropia/tip-toi-reveng
 - http://ragzouken.itch.io/kooltool
+- http://www.flickgame.org/
 - http://en.wikipedia.org/wiki/Real-life_room_escape
 - http://spaceteamadmiralsclub.com/forum/discussion/125/help-with-lexicons
 - https://storium.com/
