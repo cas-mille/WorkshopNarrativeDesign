@@ -38,6 +38,7 @@ Of course you can use other frameworks too...
 - https://github.com/entropia/tip-toi-reveng
 - http://ragzouken.itch.io/kooltool
 - http://www.flickgame.org/
+- http://www.elizascript.net/
 - http://en.wikipedia.org/wiki/Real-life_room_escape
 - http://spaceteamadmiralsclub.com/forum/discussion/125/help-with-lexicons
 - https://storium.com/
