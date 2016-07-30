@@ -9,53 +9,53 @@ A collection of workshop materials / exercises / stuff about **Narrative Design 
 ## The Exercise
 
 - choose yourself / receive...
-  - a framework / engine
-  - a theme / topic / storyworld
+    - a framework / engine
+    - a theme / topic / storyworld
 - download / clone / fork the [`workshop materials`](http://github.com/csongorb/WorkshopNarrativeDesign) on GitHub
 - download / install the frameworks and additional software
-  - as further described at each framework
+    - as further described at each framework
 - **design / write / author a story**...
-  - *within the the given / choosen framework*
-    - *with the given structure / elements / functions*
-  - *fitting the given / choosen theme / topic / storyworld*
+    - *within the the given / choosen framework*
+        - *with the given structure / elements / functions*
+    - *fitting the given / choosen theme / topic / storyworld*
 - upload / exhibit / show your interactive story
 - analyse / discuss your work
-  - what went right? what went wrong?
+    - what went right? what went wrong?
 
 ### Suggested Steps
 
 1. **analyse!**
-   - play around with and analyse the framework
-   - how does the framework work? what is it capable of? what kind of stories does the structure imply?
-   - only then:
+    - play around with and analyse the framework
+    - how does the framework work? what is it capable of? what kind of stories does the structure imply?
+    - only then:
 2. **brainstorm!**
-   - what can you do with the framework? what story does fit the structure?
-   - frame your vision!
+    - what can you do with the framework? what story does fit the structure?
+    - frame your vision!
 3. **iterate!**
-   1. *think / design*
-      - visualise your ideas / define features
-      - what kind of elements are in your story? how are they related to each other? what can the player do?
-   2. *implement / write*
-      - code / write / make graphics / record sounds / etc.
-      - implement feature after feature, that you always have a complete / playable version
-   3. *evaluate / test / analyse*
-      - play and let others play
-      - analyse
-      - what is working? what is not working?
-   4. *back to: 1. think / design...*
+    1. *think / design*
+        - visualise your ideas / define features
+        - what kind of elements are in your story? how are they related to each other? what can the player do?
+    2. *implement / write*
+        - code / write / make graphics / record sounds / etc.
+        - implement feature after feature, that you always have a complete / playable version
+    3. *evaluate / test / analyse*
+        - play and let others play
+        - analyse
+        - what is working? what is not working?
+    4. *back to: 1. think / design...*
 4. **finalise!**
-   - leave yourself time for finalising your project
-   - close the gaps / write the credits / remove last bugs / cut out not working parts / etc.
+    - leave yourself time for finalising your project
+    - close the gaps / write the credits / remove last bugs / cut out not working parts / etc.
 5. **finish!**
-   - build & test one more time
-   - upload / exhibit / show
+    - build & test one more time
+    - upload / exhibit / show
 
 ## Structure / Content
 
 - [`/frameworks`](http://github.com/csongorb/WorkshopNarrativeDesign/frameworks)
-  - the prepared **exercises / frameworks**
+    - the prepared **exercises / frameworks**
 - [`/meta`](http://github.com/csongorb/WorkshopNarrativeDesign/meta)
-  - further **instructions / material for tutors / workshop instructors**
+    - further **instructions / material for tutors / workshop instructors**
 
 ## Todos
 

@@ -4,7 +4,7 @@
 
 - download & install [Inform 7](http://inform7.com/download/)
 - open the example-project with Inform 7
-  - read the code / the comments for further information & instructions
+  	- read the code / the comments for further information & instructions
 
 ## Further Reading
 
@@ -29,11 +29,11 @@
 ## Ideas / Questions
 
 - what story can be told with this structure?
-  - without characters
-  - mostly through locations & their exploration
-    - Environmental Storytelling
-  - items / item-interactions
-  - variablen?
+  	- without characters
+  	- mostly through locations & their exploration
+    	- Environmental Storytelling
+  	- items / item-interactions
+  	- variablen?
 - how can you guide the player?
 - how can you deal with the technical limitations in a creative way? how can you integrate them?
 - why are there so many abandoned areas / islands in computer games?

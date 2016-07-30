@@ -5,7 +5,7 @@
 - download and install [Renpy](http://www.renpy.org/latest.html)
 - open Renpy and set the [`RenpyProjectsDirectory`](RenpyProjectsDirectory) as your **Projects Directory** in Preferences
 - open the example-project with Renpy
-  - read the code / the comments for further information & instructions
+  	- read the code / the comments for further information & instructions
 
 ## Further Reading
 
@@ -21,12 +21,12 @@
 - https://vndb.org/
 - http://store.steampowered.com/tag/en/Visual%20Novel
 
-## Questions / 
+## Questions / Ideas
 
 - how can you tell a story only though characters & dialogues?
-  - character-development
+  	- character-development
 - who is the player?
 - how are the characters related to each other? how does that change during the story?
 - ideas
-  - a child between father & mother
-  - a man between girlfriend & lover
+  	- a child between father & mother
+  	- a man between girlfriend & lover

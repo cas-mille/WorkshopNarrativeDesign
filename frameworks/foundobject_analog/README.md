@@ -13,7 +13,7 @@ A bag / a wallet / a notebook / pictures / a diary / etc.
 ## Further Reading / Inspiration
 
 - <a href="http://www.slideshare.net/mnerurkar/experiencing-environments" target="_blank">http://www.slideshare.net/mnerurkar/experiencing-environments</a>
-  - Environmental Storytelling (P. 6 - 22)
+	- Environmental Storytelling (P. 6 - 22)
 - <a href="http://foundmagazine.com/" target="_blank">http://foundmagazine.com/</a>
 - <a href="http://www.foundphotos.net/" target="_blank">http://www.foundphotos.net/</a>
 - <a href="http://look-at-me.tumblr.com/" target="_blank">http://look-at-me.tumblr.com/</a>
