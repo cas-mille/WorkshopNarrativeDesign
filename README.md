@@ -8,10 +8,10 @@ A collection of workshop materials / exercises / stuff about **Narrative Design 
 
 ## The Exercise
 
-- choose yourself / receive...
+- choose yourself...
     - a framework / engine
     - a theme / topic / storyworld
-- download / clone / fork the [`workshop materials`](http://github.com/csongorb/WorkshopNarrativeDesign) on GitHub
+- download / clone / fork the [`workshop materials`](http://bitbucket.org/csongorb/workshopnarrativedesign) on Bitbucket
 - download / install the frameworks and additional software
     - as further described at each framework
 - **design / write / author a story**...
@@ -52,19 +52,19 @@ A collection of workshop materials / exercises / stuff about **Narrative Design 
 
 ## Structure / Content
 
-- [`/frameworks`](http://github.com/csongorb/WorkshopNarrativeDesign/frameworks)
+- [`/frameworks`](/frameworks)
     - the prepared **exercises / frameworks**
-- [`/meta`](http://github.com/csongorb/WorkshopNarrativeDesign/meta)
+- [`/meta`](http://bitbucket.org/csongorb/workshopnarrativedesign/meta)
     - further **instructions / material for tutors / workshop instructors**
 
 ## Todos
 
 No such toolbox is ever finished... but unfortunatelly this one is particularly **Work in Progress**. Please feel free to help out and / or share your comments and ideas!
 
-
 ## Credits
 
-- **csongor baranyai**  
+**csongor baranyai**  
+
 - csongorb (at) gmail (dot) com  
 - [http://www.csongorb.com](http://www.csongorb.com)
 
@@ -74,6 +74,7 @@ Thanks also for all the **universities / schools / institutions** where I had th
 
 ## Licence
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
+[![Creative Commons License](https://i.creativecommons.org/l/by-nc/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc/4.0/)
+This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/).
 
 All other media (images, software, etc.) remain the property of their copyright holders.
