@@ -4,7 +4,7 @@
 
 - download & install [Twine 2.0](http://twinery.org/)
 - import & open the example-project with Twine
-  - read the code / the comments for further information & instructions
+  	- read the code / the comments for further information & instructions
 
 Please note that Twine 1 and Twine 2 are different and similar at the same time. This can be somethimes confusing while reading tutorials and finding solutions online.
 
@@ -47,10 +47,10 @@ Please note that Twine 1 and Twine 2 are different and similar at the same time.
 
 - what story can be told with this structure?
 - what is the role / function of the player? who is he?
-  - omniscient / subjective
+  	- omniscient / subjective
 - what are the branches / choices mapped / aligned to?
-  - time / location / etc.
+  	- time / location / etc.
 - how can you connect the story with the Story Format?
 - what are the diferences between a Choose You Own Adventure (CYOA) and a gamebook?
 - ideas / possibilities
-  - parallel events / time-travelling
+  	- parallel events / time-traveling

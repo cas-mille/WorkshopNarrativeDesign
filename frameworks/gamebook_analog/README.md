@@ -1,6 +1,5 @@
 # Gamebook / Analog
 
-
 ## The Exercise
 
 Design / write / author a story with the structure described in [`gamebook_elements.pdf`](gamebook_elements.pdf). You may re-theme the elements as you like.
@@ -14,11 +13,13 @@ Printed book & additional sheets
 ## Further Reading
 
 **Fabled Lands**
+
 - http://en.wikipedia.org/wiki/Fabled_Lands
 - http://www.sparkfurnace.com/fabled-lands/
 - http://fabledlands.blogspot.de/
 - http://www.amazon.de/Fabled-Lands-The-War-Torn-Kingdom/dp/095673720X
 - http://flapp.sourceforge.net/
+
 **Other Gamebooks**
 
 - Lone Wolf
@@ -31,10 +32,11 @@ Printed book & additional sheets
 
 - http://jakecaregamebooks.blogspot.de/2012/07/classifying-and-rating-linearity.html
 - http://www.gamebooks.org/list_categories.php
-  	- Complexity Level & Game System
+	- Complexity Level & Game System
 - http://heterogenoustasks.wordpress.com/2011/08/17/cyoa-structures-cyo-rpg/
 
 ## Ideas / Questions
+
 - what kind of story can be told with this structure?
 - what are the branches / choices mapped / aligned to?
   	- time / location / etc.

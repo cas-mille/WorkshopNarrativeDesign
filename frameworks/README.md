@@ -2,15 +2,22 @@
 
 ## Prepared Exercises
 
-- [`/CYOA_twine`](https://github.com/csongorb/WorkshopNarrativeDesign/tree/master/frameworks/CYOA_twine)
-- [`/foundobject_analog`](http://github.com/csongorb/WorkshopNarrativeDesign/frameworks/gamebook_analog)
-- [`/gambook_analog`](http://github.com/csongorb/WorkshopNarrativeDesign/frameworks/gamebook_analog)
-- [`/interactivefiction_analog`](http://github.com/csongorb/WorkshopNarrativeDesign/frameworks/gamebook_analog)
-- [`/visualnovel_renpy`](http://github.com/csongorb/WorkshopNarrativeDesign/frameworks/gamebook_analog)
-
-All exercises are **cross-platform** or **platform-independent / analog**.
+All prepared exercises are **cross-platform** or **platform-independent / analog**.
 
 Use [`frameworks_cards.pdf`](framework_cards.pdf) for easier distribution and communication of the frameworks / exercises among the students / participants.
+
+### 
+
+- [`/CYOA_twine`](/CYOA_twine)
+- [`/foundobject_analog`](/foundobject_analog)
+- [`/gambook_analog`](/gambook_analog)
+- [`/gamebook_ink`](/gamebook_ink)
+- [`/interactivefiction_inform7`](/interactivefiction_inform7)
+- [`/visualnovel_renpy`](/visualnovel_renpy)
+
+### 
+
+kkkk
 
 ## Other Frameworks
 

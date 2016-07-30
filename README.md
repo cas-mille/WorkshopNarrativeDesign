@@ -54,7 +54,7 @@ A collection of workshop materials / exercises / stuff about **Narrative Design 
 
 - [`/frameworks`](/frameworks)
     - the prepared **exercises / frameworks**
-- [`/meta`](http://bitbucket.org/csongorb/workshopnarrativedesign/meta)
+- [`/meta`](/meta)
     - further **instructions / material for tutors / workshop instructors**
 
 ## Todos
@@ -78,3 +78,18 @@ Thanks also for all the **universities / schools / institutions** where I had th
 This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/).
 
 All other media (images, software, etc.) remain the property of their copyright holders.
+
+## Todos / Bugs / Ideas
+
+- Bugs
+    - ?
+- Todos / Ideas
+    - prepare further frameworks / exercises
+        - story-chess (Processing)
+        - the cave (my own project)
+        - etc.
+    - translate "dazwischen" to english
+- Other
+    - check and correct legal issues
+        - what unlicenced materials am I using? change!
+        - fair use?

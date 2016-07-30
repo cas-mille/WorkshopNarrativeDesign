@@ -2,8 +2,6 @@
 # tmp
 # ====================================
 
-frameworks/adventure_visionaire
-frameworks/enhancedbook_tiptoi
 
 # ====================================
 # meta
@@ -24,7 +22,6 @@ frameworks/interactivefiction_inform7/NarrativeDesignZork/NarrativeDesignZork.in
 frameworks/interactivefiction_inform7/NarrativeDesignZork/NarrativeDesignZork.inform/Settings.plist
 frameworks/interactivefiction_inform7/NarrativeDesignZork/NarrativeDesignZork.inform/Skein.skein
 frameworks/interactivefiction_inform7/NarrativeDesignZork/NarrativeDesignZork.inform/uuid.txt
-
 frameworks/interactivefiction_inform7/NarrativeDesignZork/NarrativeDesignZork.materials/Icon
 
 # ====================================
