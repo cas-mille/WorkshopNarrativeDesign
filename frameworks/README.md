@@ -1,12 +1,8 @@
 # Frameworks / Tools / Resources
 
+Please feel free to add your own ideas / frameworks / tools!
+
 ## Prepared Exercises
-
-All prepared exercises are **cross-platform** or **platform-independent / analog**.
-
-Use [`frameworks_cards.pdf`](framework_cards.pdf) for easier distribution and communication of the frameworks / exercises among the students / participants.
-
-### 
 
 - [`/CYOA_twine`](/CYOA_twine)
 - [`/foundobject_analog`](/foundobject_analog)
@@ -15,17 +11,24 @@ Use [`frameworks_cards.pdf`](framework_cards.pdf) for easier distribution and co
 - [`/interactivefiction_inform7`](/interactivefiction_inform7)
 - [`/visualnovel_renpy`](/visualnovel_renpy)
 
-### 
+All prepared exercises are  **free** / **open source** and **cross-platform** / **platform-independent / analog**.
 
-kkkk
+Use [`frameworks_cards.pdf`](framework_cards.pdf) for easier distribution and communication of the frameworks / exercises among the students / participants.
 
 ## Other Frameworks
 
-Of course you can use other frameworks too...
+Of course you can use other frameworks (often **not free** and/or **platform-......**) too...
+
+### Highly Reccomended
+
+- http://adventurecreator.org/
+- http://www.rpgmakerweb.com/
+- https://github.com/entropia/tip-toi-reveng
+
+### Other
 
 **Point & Click Adventure**
 
-- http://adventurecreator.org/
 - http://www.adventuregamestudio.co.uk/
 - http://www.visionaire-studio.net/
 
@@ -36,13 +39,11 @@ Of course you can use other frameworks too...
 
 **RPG**
 
-- http://www.rpgmakerweb.com/
 - http://en.wikipedia.org/wiki/Tabletop_role-playing_game
 - http://mozomedia.com/ack/download-ack/
 
 **Other / Experimental**
 
-- https://github.com/entropia/tip-toi-reveng
 - http://ragzouken.itch.io/kooltool
 - http://www.flickgame.org/
 - http://www.elizascript.net/
@@ -55,8 +56,6 @@ Of course you can use other frameworks too...
 
 - http://www.pixelcrushers.com/dialogue-system/
 - http://www.hutonggames.com/index.html
-
-Please feel free to add your own ideas / frameworks!
 
 ## Tools & Resources
 

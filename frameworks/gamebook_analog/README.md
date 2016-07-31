@@ -2,7 +2,7 @@
 
 ## The Exercise
 
-Design / write / author a story with the structure described in [`gamebook_elements.pdf`](gamebook_elements.pdf). You may re-theme the elements as you like.
+Design / write / author a story with the structure described in [`gamebook_elements.pdf`](gamebook_elements.pdf) and demonstrated in [`fabledland_excerpts.pdf`](fabledland_excerpts.pdf). You may re-theme the elements as you like.
 
 Additional elements / ideas may be used, but only after permission of / consultation with the tutor.
 
