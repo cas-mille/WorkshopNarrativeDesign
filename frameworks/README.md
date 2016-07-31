@@ -17,7 +17,7 @@ Use [`frameworks_cards.pdf`](framework_cards.pdf) for easier distribution and co
 
 ## Other Frameworks
 
-Of course you can use other frameworks (often **not free** and/or **platform-......**) too...
+Of course you can use other frameworks (often **not free** and/or **not platform-independent**) too...
 
 ### Highly Reccomended
 
