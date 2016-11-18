@@ -6,7 +6,7 @@ Please feel free to add your own ideas / frameworks / tools!
 
 - [`/CYOA_twine`](/CYOA_twine)
 - [`/foundobject_analog`](/foundobject_analog)
-- [`/gambook_analog`](/gambook_analog)
+- [`/gamebook_analog`](/gamebook_analog)
 - [`/gamebook_ink`](/gamebook_ink)
 - [`/interactivefiction_inform7`](/interactivefiction_inform7)
 - [`/visualnovel_renpy`](/visualnovel_renpy)
@@ -41,6 +41,12 @@ Of course you can use other frameworks (often **not free** and/or **not platform
 
 - http://en.wikipedia.org/wiki/Tabletop_role-playing_game
 - http://mozomedia.com/ack/download-ack/
+
+**(Easy-To-Use) Game Engines**
+
+- https://www.yoyogames.com/gamemaker
+- http://www.lexaloffle.com/pico-8.php
+- http://www.puzzlescript.net/
 
 **Other / Experimental**
 
